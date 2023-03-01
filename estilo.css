@@ -1,0 +1,368 @@
+
+/*-----------------------------------*/
+/*        Contenido del Div 1        */
+.div1{
+    position: absolute;
+    width: 100%;
+    height: 50vw;
+    
+}
+
+.h11{
+    position: absolute;
+    font-family: fantasy;
+    color:deepskyblue;
+    text-align: right;
+    right: 52%;
+    font-size: 5vw;
+    top: 20%;
+    width: 50%;
+}
+
+.h21{
+    position: absolute;
+    font-family: fantasy;
+    color: deepskyblue;
+    text-align: right;
+    font-size: 3vw;
+    right: 52%;
+    top:36% ;
+    width: 50%;
+}
+
+.im1{
+    position: absolute;
+    height: 40%;
+    top:20%;
+    left: 68%
+}
+.im1:hover{
+    height: 41.5%;
+}
+/*-----------------------------------*/
+/*      Textos del Div1              */
+
+.p11{
+    position: absolute;
+    text-align: left;
+    left: 54%;
+    color: dimgrey;
+    font-size: 2vw;
+    top:60%;
+    width: 40%;
+    font-family: sans-serif;
+}
+
+.p12{
+    position: absolute;
+    text-align: left;
+    left: 54%;
+    color: dimgrey;
+    font-size: 2vw;
+    top:60%;
+    width: 40%;
+    font-family: sans-serif;
+}
+
+.p13{
+    position: absolute;
+    text-align: left;
+    left: 54%;
+    color: dimgrey;
+    font-size: 2vw;
+    top:60%;
+    width: 40%;
+    font-family: sans-serif;
+}
+
+.p14{
+    position: absolute;
+    text-align: left;
+    left: 54%;
+    color: dimgrey;
+    font-size: 2vw;
+    top:60%;
+    width: 40%;
+    font-family: sans-serif;
+}
+
+.p15{
+    position: absolute;
+    text-align: left;
+    left: 54%;
+    color: dimgrey;
+    font-size: 2vw;
+    top:60%;
+    width: 40%;
+    font-family: sans-serif;
+}
+
+/*-----------------------------------*/
+.p16{
+    position: absolute;
+    color: dimgrey;
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 1.8vw;
+    top:60%;
+    width: 44%;
+    left: 4%;
+}
+
+.p1{
+    position: absolute;
+    color: dimgrey;
+    font-family: sans-serif;
+    text-align: right;
+    font-size: 1.8vw;
+    top:60%;
+    width: 44%;
+    left: 54%;
+}
+
+/*-----------------------------------*/
+/*        Contenido del Div 2        */
+.div2{
+    position: absolute;
+    top:60vw;
+    width: 100%;
+    height: 50vw;
+    background-color: dodgerblue;
+}
+/*....................................
+Configuraciones de estilo de textos */
+
+.h12{
+    position: absolute;
+    font-family: fantasy;
+    color:white;
+    text-align: right;
+    right: 52%;
+    font-size: 2.5vw;
+    top: 3%;
+    width: 50%;
+}
+.h12:hover{
+    font-size: 2.8vw;
+}
+
+.span1{
+    position: absolute;
+    font-family:sans-serif;
+    color:white;
+    text-align: right;
+    right: 52%;
+    font-size: 1.7vw;
+    top: 12%;
+    width: 48%;
+}
+.span1:hover{
+    font-size: 1.8vw;
+}
+
+.h13{
+    position: absolute;
+    font-family: fantasy;
+    color:white;
+    text-align: right;
+    right: 52%;
+    font-size: 2.5vw;
+    top: 45%;
+    width: 48%;
+}
+.h13:hover{
+    font-size: 2.8vw;
+}
+
+.span2{
+    position: absolute;
+    font-family:sans-serif;
+    color:white;
+    text-align: right;
+    right: 52%;
+    font-size: 1.7vw;
+    top: 55%;
+    width: 48%;
+}
+.span2:hover{
+    font-size: 1.8vw;
+}
+
+.h14{
+    position: absolute;
+    font-family: fantasy;
+    color:white;
+    text-align: left;
+    left: 54%;
+    font-size: 2.5vw;
+    top: 3%;
+    width: 46%;
+}
+.h14:hover{
+    font-size: 2.8vw;
+}
+
+.span3{
+    position: absolute;
+    font-family:sans-serif;
+    color:white;
+    text-align: left;
+    left: 54%;
+    font-size: 1.7vw;
+    top: 12%;
+    width: 46%;
+}
+.span3:hover{
+    font-size: 1.8vw;
+}
+
+
+/*-----------------------------------*/
+/*        Contenido del Div 3        */
+.div3{
+    position: absolute;
+    top:120vw;
+    width: 100%;
+    height: 50vw;
+    background-color: white;
+}
+
+.cnv1{
+    position: absolute;
+    z-index: 80;
+    opacity: 70%;
+    width: 100%;
+    height: 100%;
+}
+
+.h31{
+    position: absolute;
+    font-size: 2.4vw;
+    color:black;
+    font-family: sans-serif;
+    top:4vw;
+    width: 48%;
+    left: 2%;
+}
+
+.p31{
+    position: absolute;
+    font-size: 1.6vw;
+    color:black;
+    font-family: sans-serif;
+    top:12vw;
+    width: 48%;
+    left: 2%;
+    
+}
+
+.p32{
+    position: absolute;
+    font-size: 1.6vw;
+    color:black;
+    font-family: sans-serif;
+    top:18vw;
+    width: 48%;
+    left: 2%;
+    
+}
+
+.p33{
+    position: absolute;
+    font-size: 1.6vw;
+    color:black;
+    font-family: sans-serif;
+    top:24vw;
+    width: 48%;
+    left: 2%;
+}
+
+
+.mundo{
+    position: absolute;
+    left: 73%;
+    top:25%;
+    width: 25%;
+    z-index: 80;
+}
+.mundo:hover{
+    width: 27%;
+}
+
+
+/*-----------------------------------*/
+
+/*-----------------------------------*/
+/*        Contenido del Div 4       */
+
+.cnv2{
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    height: 100%;
+    opacity: 50%;
+}
+.div4{
+    position: absolute;
+    top:180vw;
+    width: 100%;
+    height: 50%;
+    background-color: dodgerblue;
+    
+    z-index: 0;
+    
+}
+
+
+
+.h41{
+    position: absolute;
+    font-size: 2.4vw;
+    color:white;
+    font-family: sans-serif;
+    top:1vw;
+    width: 48%;
+    left: 2%;
+    z-index: 80;
+}
+
+.p41{
+    position: absolute;
+    font-size: 1.6vw;
+    color:white;
+    font-family: sans-serif;
+    top:6vw;
+    width: 48%;
+    left: 2%;
+    z-index: 80;
+    
+}
+
+.p42{
+    position: absolute;
+    font-size: 1.6vw;
+    color:white;
+    font-family: sans-serif;
+    top:9vw;
+    width: 48%;
+    left: 2%;
+    z-index: 80;
+}
+
+.p43{
+    position: absolute;
+    font-size: 1.6vw;
+    color:white;
+    font-family: sans-serif;
+    top:12vw;
+    width: 48%;
+    left: 2%;
+    z-index: 80;
+}
+
+
+
+
+
+
+/*-----------------------------------*/
